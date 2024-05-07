@@ -1,0 +1,15 @@
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.AssemblyInfoInputs.cache
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.AssemblyInfo.cs
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.sourcelink.json
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\bin\Debug\net8.0\ControlWork1.exe
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\bin\Debug\net8.0\ControlWork1.deps.json
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\bin\Debug\net8.0\ControlWork1.runtimeconfig.json
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\bin\Debug\net8.0\ControlWork1.dll
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\bin\Debug\net8.0\ControlWork1.pdb
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.dll
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\refint\ControlWork1.dll
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.pdb
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ControlWork1.genruntimeconfig.cache
+C:\Users\eliza\Desktop\folders\self_development\GeekBrains\ControlWork1\obj\Debug\net8.0\ref\ControlWork1.dll
